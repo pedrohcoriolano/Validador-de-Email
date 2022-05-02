@@ -1,5 +1,5 @@
 var primeira_letra = ''
-
+document.querySelector('#email_usuario').focus()
 function analisar() {
     var input_email = document.querySelector('#email_usuario').value
     
